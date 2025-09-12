@@ -1,1 +1,0 @@
-print ("Nom: Nico Tolos","Edat: 18")
