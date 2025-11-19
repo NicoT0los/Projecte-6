@@ -1,0 +1,7 @@
+Primera línia
+Segona línia
+Tercera línia
+Aquesta línia s'ha afegit.
+Línia afegida amb r+
+Aquesta línia s'ha afegit.
+Línia afegida amb r+
